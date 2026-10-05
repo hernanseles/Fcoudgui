@@ -40,9 +40,9 @@ Aprendo tecnologia colocando ideias em prática. Neste espaço, compartilho exer
 
 | | Projeto | Ideia e implementação |
 | :---: | --- | --- |
-| 🛡️ | **[GuiaCiber](https://github.com/Fcoudgui/guia-ciber-assistente-virtual-ia)** | Cibersegurança para iniciantes. Assistente com base local, Python e interface web. |
-| 🧠 | **[Desafio Prompt](https://github.com/Fcoudgui/Desafio-Prompt)** | Transformar chamados de suporte em análises e planos de ação para QA. |
-| ☕ | **[SIm](https://github.com/Fcoudgui/SIm)** | Simulador educacional de contas bancárias com Java, MySQL e JDBC. |
+| 🌐 | **[HISYT](https://github.com/Fcoudgui/Hisyt_)** | Site institucional com React, TypeScript e Vite, em português, inglês e espanhol. Código em repositório privado. |
+| 💬 | **[Next Comunica](https://github.com/Fcoudgui/NextComunica)** | Site institucional com HTML, CSS e JavaScript, animações e links de contato. Código em repositório privado. |
+| 🛡️ | **[GuiaCiber](https://github.com/Fcoudgui/guia-ciber-assistente-virtual-ia)** | Assistente educacional de cibersegurança com base local, Python e interface web. |
 
 ### 🌱 Em construção
 
