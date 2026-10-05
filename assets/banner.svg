@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Fcoudgui — código, ideias e aprendizado</title>
+<desc id="desc">Banner escuro com horizonte roxo e rosa, estrelas e uma janela de código.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset=".6" stop-color="#19132e"/><stop offset="1" stop-color="#352044"/></linearGradient><linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#f9a8d4"/></linearGradient><radialGradient id="glow"><stop stop-color="#c084fc" stop-opacity=".3"/><stop offset="1" stop-color="#c084fc" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<ellipse cx="930" cy="240" rx="380" ry="260" fill="url(#glow)"/>
+<g fill="#e9d5ff" opacity=".6"><circle cx="58" cy="48" r="1.5"/><circle cx="565" cy="64" r="2"/><circle cx="730" cy="42" r="1.5"/><circle cx="1136" cy="65" r="2"/><circle cx="667" cy="155" r="1"/><circle cx="1087" cy="292" r="1.5"/></g>
+<path d="M0 316 Q420 246 1200 295" stroke="url(#accent)" stroke-opacity=".45" fill="none"/>
+<path d="M0 338 Q470 263 1200 320" stroke="#a78bfa" stroke-opacity=".17" fill="none"/>
+<g font-family="Segoe UI, Arial, sans-serif"><text x="64" y="90" font-size="14" letter-spacing="4" fill="#c4b5fd">DESENVOLVIMENTO · IA · SEGURANÇA</text><text x="60" y="171" font-size="74" font-weight="700" fill="#f8fafc">Fcoudgui<tspan fill="#f9a8d4">.</tspan></text><text x="64" y="214" font-size="24" fill="#d8d0e7">Código, ideias e aprendizado.</text><rect x="64" y="246" width="222" height="34" rx="17" fill="#c4b5fd" fill-opacity=".1" stroke="#c4b5fd" stroke-opacity=".3"/><text x="82" y="268" font-size="13" fill="#e9d5ff">CONSTRUINDO UM PROJETO POR VEZ</text></g>
+<rect x="802" y="85" width="326" height="198" rx="14" fill="#0d1117" stroke="#c4b5fd" stroke-opacity=".3"/>
+<path d="M802 121H1128" stroke="#c4b5fd" stroke-opacity=".15"/><circle cx="823" cy="104" r="4" fill="#f9a8d4"/><circle cx="839" cy="104" r="4" fill="#c4b5fd"/><circle cx="855" cy="104" r="4" fill="#86efac"/>
+<g font-family="Consolas, monospace" font-size="17"><text x="827" y="157" fill="#c4b5fd">while (aprendendo) {</text><text x="847" y="191" fill="#e2e8f0">explorar();</text><text x="847" y="222" fill="#f9a8d4">construir();</text><text x="827" y="257" fill="#c4b5fd">}</text></g>
+</svg>
