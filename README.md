@@ -8,7 +8,7 @@
 
 Desenvolvimento de software · Inteligência artificial · Segurança digital
 
-[![Explore meus projetos](https://img.shields.io/badge/EXPLORE_MEUS_PROJETOS-c4b5fd?style=for-the-badge&logo=github&logoColor=181225)](https://github.com/Fcoudgui?tab=repositories)
+[![Explore meus projetos](https://img.shields.io/badge/EXPLORE_MEUS_PROJETOS-c4b5fd?style=for-the-badge&logo=github&logoColor=181225)](https://github.com/hernanseles?tab=repositories)
 
 </div>
 
@@ -40,9 +40,9 @@ Aprendo tecnologia colocando ideias em prática. Neste espaço, compartilho exer
 
 | | Projeto | Ideia e implementação |
 | :---: | --- | --- |
-| 🌐 | **[HISYT](https://github.com/Fcoudgui/Hisyt_)** | Site institucional com React, TypeScript e Vite, em português, inglês e espanhol. Código em repositório privado. |
-| 💬 | **[Next Comunica](https://github.com/Fcoudgui/NextComunica)** | Site institucional com HTML, CSS e JavaScript, animações e links de contato. Código em repositório privado. |
-| 🛡️ | **[GuiaCiber](https://github.com/Fcoudgui/guia-ciber-assistente-virtual-ia)** | Assistente educacional de cibersegurança com base local, Python e interface web. |
+| 🌐 | **[HISYT](https://github.com/hernanseles/hisyt_reform)** | Site institucional com React, TypeScript e Vite, em português, inglês e espanhol. Código em repositório privado. |
+| 💬 | **[Next Comunica](https://github.com/hernanseles/NextComunica)** | Site institucional com HTML, CSS e JavaScript, animações e links de contato. Código em repositório privado. |
+| 🛡️ | **[GuiaCiber](https://github.com/hernanseles/guia-ciber-assistente-virtual-ia)** | Assistente educacional de cibersegurança com base local, Python e interface web. |
 
 ### 🌱 Em construção
 
@@ -54,6 +54,6 @@ Aprofundando organização de código, documentação e boas práticas de desenv
 
 **Uma ideia. Um projeto. Um novo aprendizado.**
 
-[![Ver repositórios públicos](https://img.shields.io/badge/VER_REPOSIT%C3%93RIOS_P%C3%9ABLICOS-19132e?style=for-the-badge&logo=github&logoColor=c4b5fd)](https://github.com/Fcoudgui?tab=repositories)
+[![Ver repositórios públicos](https://img.shields.io/badge/VER_REPOSIT%C3%93RIOS_P%C3%9ABLICOS-19132e?style=for-the-badge&logo=github&logoColor=c4b5fd)](https://github.com/hernanseles?tab=repositories)
 
 </div>
