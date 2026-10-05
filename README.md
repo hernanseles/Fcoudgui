@@ -40,7 +40,7 @@ Aprendo tecnologia colocando ideias em prática. Neste espaço, compartilho exer
 
 | | Projeto | Ideia e implementação |
 | :---: | --- | --- |
-| 🌐 | **[HISYT](https://github.com/hernanseles/hisyt_reform)** | Site institucional com React, TypeScript e Vite, em português, inglês e espanhol. Código em repositório privado. |
+| 🌐 | **[HISYT](https://github.com/hernanseles/Hisyt_)** | Site institucional com React, TypeScript e Vite, em português, inglês e espanhol. Código em repositório privado. |
 | 💬 | **[Next Comunica](https://github.com/hernanseles/NextComunica)** | Site institucional com HTML, CSS e JavaScript, animações e links de contato. Código em repositório privado. |
 | 🛡️ | **[GuiaCiber](https://github.com/hernanseles/guia-ciber-assistente-virtual-ia)** | Assistente educacional de cibersegurança com base local, Python e interface web. |
 
